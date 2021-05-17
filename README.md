@@ -1,7 +1,8 @@
 # TicTacToe
 simple TicTacToe c++
-g++ test.cpp tictactoe.cpp
-linux:
+complier and run 
+# g++ test.cpp tictactoe.cpp
+-linux:\n
 ./a.out
-windows:
+-windows:\n
 a.exe
